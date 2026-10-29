@@ -31,7 +31,7 @@ Week 1 project: a virtual lab for ethical hacking practice, built on my own comp
 ![Shared folder](3-shared-folder.png)
 
 ### 4. NAT Network
-![NatNetwork](4-natnetwork.png)
+![NatNetwork](4-network.png)
 
 ### 5. Snapshot
 ![Snapshot](5-snapshot.png)
